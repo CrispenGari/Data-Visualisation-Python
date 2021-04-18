@@ -326,7 +326,7 @@ plt.imshow(greenImage)
 # Saving the image
 plt.imsave('green.jpg', greenImage)
 print("THE IMAGE HAS BEEN SAVED")
-plt.title("White Image", fontfamily="Arial", fontweight="bold", fontsize=20)
+plt.title("Green Image", fontfamily="Arial", fontweight="bold", fontsize=20)
 plt.show()
 ```
 
